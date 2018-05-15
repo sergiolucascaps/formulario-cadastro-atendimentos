@@ -1,0 +1,2 @@
+# formulario-cadastro-atendimentos
+Este projeto foi desenvolvido por mim, apenas para facilitar o dia-a-dia de trabalho da minha esposa. A empresa que ela trabalha possui vários sistemas (legados), onde, após cada atendimento (atendimento telefônico), ela precisa cadastrar a mesma descrição em todos os sistemas. Então, eu desenvolvi esta ferramenta, para que ela realize esse cadastro apenas nesta ferramenta, e após finalizar, toda a descrição do atendimento já está automaticamente no seu "ctrl-c" e no layout que ela precisa, basta dar "ctrl+v" nas ferramentas da empresa.
